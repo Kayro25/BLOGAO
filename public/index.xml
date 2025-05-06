@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anubis2 Demo Site</title>
+    <link>/</link>
+    <description>Anubis2 Demo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Mon, 21 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example article title</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Mon, 21 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;example-article-title&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#example-article-title&#34;&gt;
+        ##
+    &lt;/a&gt;
+    Example article title
+&lt;/div&gt;
+&lt;/h1&gt;
+&lt;p&gt;Esse é um exemplo de conteúdo de post. Aqui você pode escrever o texto do seu artigo em &lt;strong&gt;Markdown&lt;/strong&gt;, usar imagens, listas, blocos de código e mais.&lt;/p&gt;
+&lt;h2 id=&#34;subtítulo&#34; &gt;
+&lt;div&gt;
+    &lt;a href=&#34;#subt%c3%adtulo&#34;&gt;
+        #
+    &lt;/a&gt;
+    Subtítulo
+&lt;/div&gt;
+&lt;/h2&gt;
+&lt;p&gt;Você pode adicionar tabelas de conteúdo, usar comentários do Disqus, destacar autores e incluir imagens destacadas com legenda.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#c6d0f5;background-color:#303446;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#99d1db&#34;&gt;echo&lt;/span&gt; &lt;span style=&#34;color:#a6d189&#34;&gt;&amp;#34;Tudo funcionando!&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

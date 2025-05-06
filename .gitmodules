@@ -1,0 +1,18 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/binario"]
+	path = themes/binario
+	url = https://github.com/Vimux/Binario.git
+[submodule "themes/hugo-dusk"]
+	path = themes/hugo-dusk
+	url = https://github.com/gyorb/hugo-dusk.git
+[submodule "themes/freshpink"]
+	path = themes/freshpink
+	url = https://github.com/elecbrandy/freshpink.git
+[submodule "themes/anubis2"]
+	path = themes/anubis2
+	url = https://github.com/hugo-theme-anubis2/hugo-theme-anubis2.git
