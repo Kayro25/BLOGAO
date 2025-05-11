@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",function(){const e=document.querySelector(".content.post-summary.p-summary"),t=e.textContent||e.innerText,n=t.substring(0,100);e.textContent=n+"..."})
